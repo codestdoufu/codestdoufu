@@ -9,7 +9,7 @@ I build things at the intersection of software, hardware, and competitive proble
 ## 🏆 Highlights
 
 - 🥇 **USACO Platinum** — near-perfect score (2023)
-- 📐 **AIME Qualifier** — 2023 & 2024
+- 📐 **AIME Qualifier** — 2024
 - 🤖 **Robotics Instructor** @ Magikid Robotics Lab — taught Python, VEX & Scratch to kids
 - 🔐 **Cybersecurity** — national competition semi-finalist (2023), Ubuntu/Linux scripting
 
