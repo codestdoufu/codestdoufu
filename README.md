@@ -40,7 +40,7 @@ My portfolio site hosted on GitHub Pages.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Fu-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fu1/)
 [![GitHub](https://img.shields.io/badge/GitHub-codestdoufu-181717?style=flat&logo=github)](https://github.com/codestdoufu)
-[![Email](https://img.shields.io/badge/Email-yf2953@nyu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yf2953@nyu.edu)
+[![Email](https://img.shields.io/badge/Email-david328150@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:david328150@gmail.com)
 
 ---
 
